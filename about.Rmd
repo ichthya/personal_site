@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-Who knows?!
+I'm a postdoctoral fellow in the Biodiversity Research Centre at University of British Columbia. I study how riverine landscapes and their physical properties structure genetic diversity of organisms within and between river drainages, with special focus on the species rich ichthyofauna of the Neotropics. Applying modeling approaches helps me understand how the process of divergence is potentially linked to multiple and possibly interacting mechanisms, such as geography, ecology, adaptation, and riverine characteristics, and how such genetic structure may link to patterns of species diversity.  

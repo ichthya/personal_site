@@ -1,9 +1,26 @@
-name: "Dea-website"
+name: "Andrea T. Thomaz"
 output_dir: "."
 navbar:
-  title: "Deas Website"
+  title: "Andréa T. Thomaz"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About Me"
-      href: about.html
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/deathomaz
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/IchthyaDea
+  right:
+    - text: "Research"
+      href: res.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Fishy Photos"
+      href: fish.html
+    - text: "Non-fishy Photos"
+      href: nonFish.html
+    - text: "BioPottery"
+      href: pot.html
+output:
+  html_document:
+    theme: paper
+    css: style.css
