@@ -1,0 +1,9 @@
+name: "Dea-website"
+output_dir: "."
+navbar:
+  title: "Deas Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
