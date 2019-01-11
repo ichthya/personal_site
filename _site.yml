@@ -6,7 +6,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
-      href: http://github.com/deathomaz
+      href: http://github.com/ichthya
     - icon: fa-twitter fa-lg
       href: https://twitter.com/IchthyaDea
   right:
