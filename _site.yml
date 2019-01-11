@@ -14,10 +14,8 @@ navbar:
       href: res.html
     - text: "Publications"
       href: pubs.html
-    - text: "Fishy Photos"
+    - text: "Photos"
       href: fish.html
-    - text: "Non-fishy Photos"
-      href: nonFish.html
     - text: "BioPottery"
       href: pot.html
 output:
