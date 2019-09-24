@@ -1,4 +1,49 @@
 ---
 
 ---
-Soon!
+<img src="./files/NeotropicalFishes.jpg" style="width:100%; align="center">
+
+##Publications
+
+##### You can also find me on [Research Gate](https://www.researchgate.net/profile/Andrea_Thomaz).
+##### My full CV is available [here](files/AndreaThomaz_CV2019_2.pdf).
+#####
+
+
+###In review
+#####**THOMAZ, A.T.**, KNOWLES, L.L. (in review) Common passages, but temporal dissonance: genomic tests suggest ecological and paleo-landscape sieves structure a costal riverine fish community.
+#####
+#####MARSKE, K., **THOMAZ, A.T.**, KNOWLES, L.L. (in review) Eco-evolutionary communities in complex landscapes: biogeography determines origin, ecology shapes history.
+#####
+
+
+###Published
+#####
+#####14. **THOMAZ, A.T.**, HE, Q. (accepted) When are populations not connected like a circuit? Identifying biases in gene flow from coalescent times - News and Views Perspective. Molecular Ecology Resources. 
+#####
+#####13. PIRANI, R.M., WERNECK, F.P., **THOMAZ, A.T.**, KENNEY, M.K, STURARO, M.J., ÁVILA-PIRES, T.C.S., PELOSO, P., RODRIGUES, M.T., KNOWLES, L.L. (early view) Testing main Amazonian rivers as barriers across time and space within widespread taxa. Journal of Biogeography.
+#####
+#####12. PRADO, J.R., PERCEQUILLO, A.R., **THOMAZ, A.T.**, KNOWLES, L.L. (2019) Species’ similar life history traits versus biome specific associations as determinants of genetic structure: quantitative comparison of three South American marsh rat species (Rodentia: Holochilus). Journal of Biogeography, 46(4), 770-783.
+#####
+#####11. **THOMAZ, A.T.**, CARVALHO, T.P., MALABARBA, L.R., KNOWLES, L.L. (2019) Geographic distributions, phenotypes, and phylogenetic relationships of Phalloceros (Cyprinodontiformes: Poeciliidae): insights about diversification among sympatric species pools. Molecular Phylogenetics and Evolution, 132, 265-274.
+#####
+#####10. RESENDE-MOREIRA, L.C., KNOWLES, L.L., **THOMAZ, A.T.**, PRADO, J.R., SOUTO, A.P., LEMOS-FILHO, J.P., LOVATO, M.B. (2019) Evolving in isolation: genetic tests reject recent connections of Amazonian savannas with the central Cerrado. Journal of Biogeography, 46(1), 196-211.
+#####
+#####9. **THOMAZ, A.T.**, KNOWLES, L.L. (2018) Flowing into the unknown: inferred paleodrainages for studying the ichthyofauna of Brazilian coastal rivers. Neotropial Ichthyology, 16(3). *Invited submission & cover.
+
+#####
+#####8. **THOMAZ, A.T.**, MALABARBA, L.R., KNOWLES, L.L. (2017) Genomic signatures of paleodrainages in a freshwater fish along the southeastern coast of Brazil: genetic structure reflects past riverine properties. Heredity, 119(4), 287-294.
+#####
+#####7. **THOMAZ, A.T.**, CHRISTIE, M.R., KNOWLES, L.L. (2016) The architecture of river networks can drive the evolutionary dynamics of aquatic populations. Evolution, 70(3): 731-739.
+#####
+#####6. **THOMAZ, A.T.**, MALABARBA, L.R., BONATTO, S.L., KNOWLES, L.L. (2015) Testing the effect of palaeodrainages versus habitat stability on genetic divergence in riverine systems: study of a Neotropical fish of the Brazilian coastal Atlantic Forest. Journal of Biogeography, 42(12), 2389-2401.
+#####
+#####5. **THOMAZ, A.T.**, ARCILA, D., ORTÍ, G., MALABARBA, L.R. (2015) Molecular phylogeny of the subfamily Stevardiinae Gill, 1858 (Characiformes: Characidae): classification and the evolution of reproductive traits. BMC Evolutionary Biology, 15(146), 1-25.
+#####
+#####4. HIRSCHMANN, A., **THOMAZ, A.T.**, MALABARBA, L.R., FAGUNDES, N.J.R. (2015) Riverine habitat specificity constrains dispersion in a Neotropical fish (Characidae) along Southern Brazilian drainages. Zoologica Scripta, 44(4), 374-382.
+#####
+#####3. FLORES-LOPES, F., **THOMAZ, A.T.** (2011) Histopathologic alterations observed in fish gills as a tool in environmental monitoring. Brazilian Journal of Biology, 71(1), 179-188.
+#####
+#####2. FLORES-LOPES, F., **THOMAZ, A.T.** (2011) Assessment of environmental quality through analysis of frequency of the black spot disease of fish, Guaíba Lake, RS, Brazil. Brazilian Journal of Biology, 71(4), 915-923.
+#####
+#####1. **THOMAZ, A.T.**, MALABARBA, L.R., BONATTO, S. (2010) The phylogenetic placement of Hollandichthys Eigenmann 1909 (Teleostei: Characidae) and related genera. Molecular Phylogenetics and Evolution, 57, 1347-1352.
